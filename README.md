@@ -9,7 +9,7 @@ A Mechanical Engineering graduate with a robust passion for data science and mac
 - **Programming Languages:** Proficient in Python
 - **Data Management:** Skilled in SQL for database handling
 - **Development Tools:** Experienced in using Docker for containerization
-- **Data Science Libraries:** Advanced knowledge of Pandas, Numpy, Scikit-learn, and Pytorch
+- **Data Science Libraries:** Advanced knowledge of Pandas, Numpy, Scikit-learn, and Pytorch (learning)
 
 ### Connect with Me
 I am always open to discussing new opportunities and innovative ideas in the field of machine learning and data science. Connect with me on [LinkedIn](https://www.linkedin.com/in/victor-bauler/).
