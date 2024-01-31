@@ -16,6 +16,13 @@ I am always open to discussing new opportunities and innovative ideas in the fie
 
 ### GitHub Insights
 
+
+<div align="center">
+
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBauler&show_icons=true&theme=light&hide_rank=True&hide_title=True)
 
 <!-- This section provides a visual insight into my contributions and activity on GitHub. -->
+  
+</div>
+
+
