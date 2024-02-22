@@ -14,15 +14,3 @@ A Mechanical Engineering graduate with a robust passion for data science and mac
 ### Connect with Me
 I am always open to discussing new opportunities and innovative ideas in the field of machine learning and data science. Connect with me on [LinkedIn](https://www.linkedin.com/in/victor-bauler/).
 
-### GitHub Insights
-
-
-<div align="center">
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBauler&show_icons=true&theme=light&hide_rank=True&hide_title=True)
-
-<!-- This section provides a visual insight into my contributions and activity on GitHub. -->
-  
-</div>
-
-
